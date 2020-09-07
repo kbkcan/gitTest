@@ -1,0 +1,2 @@
+git branch [브랜치이름] - 브랜치 생성
+git checkout [브랜치이름] - 브랜치 이동
