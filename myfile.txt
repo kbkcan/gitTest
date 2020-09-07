@@ -1,3 +1,4 @@
 git branch [브랜치이름] - 브랜치 생성
 git checkout [브랜치이름] - 브랜치 이동
 git commit -a -m  -스테이징에 올리지 않은 파일들 add 한 후 commit
+git pull [remote name] -원격 저장소에서 내려받고 합병하기
